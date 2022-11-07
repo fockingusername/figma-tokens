@@ -262,11 +262,16 @@
       "type": "color"
     }
   },
-  "$themes": [],
   "$metadata": {
-    "tokenSetOrder": [
-      "global",
-      "alloq"
-    ]
+    "tokenSetOrder": {
+      "0": {
+        "value": "global",
+        "type": "other"
+      },
+      "1": {
+        "value": "alloq",
+        "type": "other"
+      }
+    }
   }
 }
