@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "11681bdadcf85223a2032e5601d818ee7e88004e",
+    "name": "Alloq",
+    "selectedTokenSets": {
+      "Sizing": "enabled",
+      "Colors-VI": "disabled",
+      "Colors-alloq": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "f41bfc396f003216206ad469a1e83e8d1136612f",
+    "name": "VI Company",
+    "selectedTokenSets": {
+      "Sizing": "enabled",
+      "Colors-VI": "enabled",
+      "Colors-alloq": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
