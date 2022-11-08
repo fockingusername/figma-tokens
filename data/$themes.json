@@ -5,7 +5,9 @@
     "selectedTokenSets": {
       "Sizing": "enabled",
       "Colors-VI": "disabled",
-      "Colors-alloq": "enabled"
+      "Colors-alloq": "enabled",
+      "Alloq/colors": "disabled",
+      "Alloq/sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +17,9 @@
     "selectedTokenSets": {
       "Sizing": "enabled",
       "Colors-VI": "enabled",
-      "Colors-alloq": "disabled"
+      "Colors-alloq": "disabled",
+      "Alloq/colors": "disabled",
+      "Alloq/sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   }

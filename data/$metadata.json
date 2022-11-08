@@ -2,6 +2,8 @@
   "tokenSetOrder": [
     "Colors-alloq",
     "Sizing",
-    "Colors-VI"
+    "Colors-VI",
+    "Alloq/colors",
+    "Alloq/sizing"
   ]
 }
