@@ -1,9 +1,8 @@
 {
   "tokenSetOrder": [
-    "Colors-alloq",
-    "Sizing",
-    "Colors-VI",
-    "Alloq/colors",
-    "Alloq/sizing"
+    "Base/colors",
+    "Base/sizing",
+    "Components/button",
+    "semantic"
   ]
 }
