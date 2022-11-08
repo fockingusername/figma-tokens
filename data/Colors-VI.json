@@ -1,0 +1,10 @@
+{
+  "color--darkblue": {
+    "value": "darkblue",
+    "type": "color"
+  },
+  "color--blue": {
+    "value": "blue",
+    "type": "color"
+  }
+}
