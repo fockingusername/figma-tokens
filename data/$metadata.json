@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "base/colors",
-    "base/sizing",
-    "components/button",
-    "semantic"
+    "global",
+    "light",
+    "dark",
+    "theme"
   ]
 }
