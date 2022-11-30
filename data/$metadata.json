@@ -3,6 +3,8 @@
     "global",
     "light",
     "dark",
-    "theme"
+    "theme",
+    "Global/Spacing",
+    "Global/Sizing"
   ]
 }
